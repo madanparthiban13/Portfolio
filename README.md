@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Madan!
+# 👋 Hi, I'm Madan Parthiban!
 🎯 Aspiring Data Analyst passionate about turning data into insights.  
 💡 Skilled in **Excel | SQL | Python | Power BI | Tableau**  
 
