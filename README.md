@@ -36,28 +36,6 @@ Currently building projects in **Power BI, Python, and SQL** to sharpen my analy
 
 ---
 
-### 🛒 Retail Sales Performance Dashboard  
-**Tools:** Excel, Power BI  
-**Goal:** Identify top-performing products and regional sales trends.  
-**Highlights:**  
-- Cleaned and merged transactional data  
-- Built time-series and category breakdowns  
-- Designed automated KPI dashboard  
-📊 [View Dashboard](#) | 📁 [Repository →](#)
-
----
-
-### 🌍 Airbnb Price Analysis (Singapore)  
-**Tools:** Python (Pandas, Matplotlib)  
-**Goal:** Discover factors influencing Airbnb pricing across locations.  
-**Highlights:**  
-- Cleaned and explored 50k+ listings  
-- Analyzed correlation between ratings, location, and price  
-- Visualized findings using Matplotlib & Seaborn  
-📊 [View Notebook](#) | 📁 [Repository →](#)
-
----
-
 ## 📈 Career Goal  
 To grow as a **Data Analyst** capable of connecting data, technology, and business strategy — delivering dashboards and insights that make measurable impact.
 
