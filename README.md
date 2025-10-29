@@ -15,4 +15,4 @@
 | 🛒 Retail Sales Dashboard | Excel | Designed KPI dashboard to visualize revenue & profit trends |
 | 🌍 Airbnb Price Analysis | Python | Explored relationships between location and pricing in Singapore |
 
-📫 **Reach me at:** [LinkedIn](#) | [Email](#)  
+📫 **Reach me at:** [LinkedIn](#www.linkedin.com/in/madanparthiban) | [Email](#)  
